@@ -14,3 +14,11 @@ You can find the latest compiled executable in the **[Releases](../../releases/l
 ## 🛠️ Built With
 - Python & CustomTkinter
 - Win32 API
+
+## 📸 Screenshots
+
+### Studio Control Panel
+![Studio Settings](Screenshot%202026-09-20%20120857.png)
+
+### Taskbar Overlay & Live Graph
+![Overlay Preview](Screenshot%202026-09-20%20121006.png)
