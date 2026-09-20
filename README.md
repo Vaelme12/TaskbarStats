@@ -22,3 +22,8 @@ You can find the latest compiled executable in the **[Releases](../../releases/l
 
 ### Taskbar Overlay & Live Graph
 ![Overlay Preview](Screenshot%202026-09-20%20121006.png)
+
+---
+
+### 🪟 Direct Download (Windows 10 & 11)
+👉 **[Download TaskStats.exe for Windows 10/11](../../releases/latest/download/TaskStats.exe)**
