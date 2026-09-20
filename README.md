@@ -27,3 +27,7 @@ You can find the latest compiled executable in the **[Releases](../../releases/l
 
 ### 🪟 Direct Download (Windows 10 & 11)
 👉 **[Download TaskStats.exe for Windows 10/11](../../releases/latest/download/TaskStats.exe)**
+
+---
+
+> ℹ️ **Requirement:** To make your Windows taskbar fully transparent so this overlay looks seamless, please download and run **[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)**.
