@@ -1,4 +1,4 @@
-# ⚡ TaskbarStats Pro
+# ⚡ TaskbarStats
 A high-performance, borderless Windows overlay that displays your system metrics (CPU, RAM, GPU, Ping) in real-time right next to the taskbar – featuring a performance graph and Studio control panel.
 
 > ⚠️ **Note:** **TranslucentTB** is required to make the Windows taskbar transparent!
